@@ -62,6 +62,9 @@ Mi objetivo es convertir datos en información valiosa mediante el uso de herram
 - Visualización de datos
 - Generación de insights
 
+**Link a la base de datos:**
+ https://www.kaggle.com/datasets/keremkarayaz/coffee-shop-sales
+
 **Estado:**  Desarrollado
 
 ---
@@ -75,6 +78,8 @@ Mi objetivo es convertir datos en información valiosa mediante el uso de herram
 - Tratamiento de datos faltantes
 - Visualización
 - Interpretación de resultados
+
+**Link a la base de datos:**https://www.datos.gov.co/Inclusi-n-Social-y-Reconciliaci-n/FAMILIAS-FOCALIZADAS-PRIMERA-FASE-DEL-PROGRAMA-DE-/62wk-wqnz
 
 **Estado:** En desarrollo
 
