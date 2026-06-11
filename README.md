@@ -79,10 +79,25 @@ Mi objetivo es convertir datos en información valiosa mediante el uso de herram
 - Visualización
 - Interpretación de resultados
 
-**Link a la base de datos:**https://www.datos.gov.co/Inclusi-n-Social-y-Reconciliaci-n/FAMILIAS-FOCALIZADAS-PRIMERA-FASE-DEL-PROGRAMA-DE-/62wk-wqnz
+**Link a la base de datos:**https://www.kaggle.com/datasets/keremkarayaz/coffee-shop-sales/data
 
-**Estado:** En desarrollo
+**Estado:** Desarrollado
 
+---
+
+## Proyecto 3 - Dashboard de Business Intelligence
+
+*Objetivo:* Construir un dashboard interactivo para monitorear indicadores clave de desempeño (KPIs).
+
+*Habilidades aplicadas:*
+- Modelado de datos
+- Diseño de dashboards
+- Storytelling con datos
+- Visualización interactiva
+
+**Link a la base de datos:**https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?utm_source=chatgpt.com
+
+*Estado:* Desarrollado
 ---
 
 #  Competencias Demostradas
@@ -120,4 +135,3 @@ A través de estos proyectos busco fortalecer mis conocimientos en:
 **Correo:** jorgepb2007@gmail.com
 
 ---
-Gracias por visitar mi portafolio. Este repositorio estará en constante actualización a medida que desarrolle nuevos proyectos y fortalezca mis habilidades en el área de Análisis de Datos.
